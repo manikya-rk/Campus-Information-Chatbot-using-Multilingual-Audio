@@ -9,10 +9,10 @@ information system. The problem lies in the inconvenience and inefficiency of th
 methods, which can deter potential students from making informed decisions about their 
 college choices. 
 ## Objectives of the Present Study 
-The objectives of the proposed project are as follows: 
+The objectives of the proposed project are as follows: <br>
 i. To build a digital assistant that aids parents and students in understanding and 
-navigating inside the college campus 
-ii. To use QR codes in campus to instantly access the information from the website
+navigating inside the college campus <br>
+ii. To use QR codes in campus to instantly access the information from the website <br>
 iii. To provide information about the college, including placement records, academic  
-excellence, and a wide range of courses available with fees structure 
+excellence, and a wide range of courses available with fees structure <br>
 iv. To provide the chatbot with multilingual audio and comprehension abilities 
