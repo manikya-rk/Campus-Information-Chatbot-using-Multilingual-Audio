@@ -13,6 +13,5 @@ The objectives of the proposed project are as follows: <br>
 i. To build a digital assistant that aids parents and students in understanding and 
 navigating inside the college campus <br>
 ii. To use QR codes in campus to instantly access the information from the website <br>
-iii. To provide information about the college, including placement records, academic  
-excellence, and a wide range of courses available with fees structure <br>
+iii. To provide information about the college, including placement records, academic excellence, and a wide range of courses available with fees structure <br>
 iv. To provide the chatbot with multilingual audio and comprehension abilities 
