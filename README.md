@@ -17,7 +17,7 @@ iii. To provide information about the college, including placement records, acad
 iv. To provide the chatbot with multilingual audio and comprehension abilities 
 
 ### Technologies Used:
-<ul>DialogFlow
-HTML
-CSS
-JS</ul>
+1. DialogFlow <br>
+2. HTML<br>
+3. CSS<br>
+4. JS<br>
